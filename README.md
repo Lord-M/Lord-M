@@ -1,4 +1,12 @@
-### 🔭 I’m currently working on ...
+### ⚡ I’m PHP developer
+
+##### :star: Backend
+- PHP
+- Laravel
+
+##### :star: Frontend
+- HTML/CSS 
+- JavaScript, jQuery
 
 <!--
 **Lord-M/Lord-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
