@@ -5,8 +5,9 @@
 - Laravel
 
 ##### :star: Frontend
-- HTML/CSS 
+- HTML / CSS(SASS) 
 - JavaScript, jQuery
+- Vue.js
 
 <!--
 **Lord-M/Lord-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
