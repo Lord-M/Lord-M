@@ -10,6 +10,7 @@
 - Vue.js
 
 ##### :star: Other
+- Git / Bitbucket
 - Linux(Debian, Ubuntu, FreeBSD)
 
 <!--
