@@ -11,7 +11,9 @@
 
 ##### :star: Other
 - Git / Bitbucket
+- Apache
 - Linux(Debian, Ubuntu, FreeBSD)
+
 
 <!--
 **Lord-M/Lord-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
