@@ -5,7 +5,7 @@
 - Laravel
 
 ##### :star: Frontend
-- HTML / CSS(SASS) 
+- HTML / CSS (SASS/LESS) 
 - JavaScript, jQuery
 - Vue.js
 
