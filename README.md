@@ -1,7 +1,7 @@
 ### ⚡ I’m PHP developer
 
 ##### :star: Backend
-- PHP
+- PHP 5-7
 - Laravel
 
 ##### :star: Frontend
@@ -11,7 +11,7 @@
 
 ##### :star: Other
 - Git / Bitbucket
-- Apache
+- Apache / Nginx
 - Linux(Debian, Ubuntu, FreeBSD)
 
 
