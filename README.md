@@ -1,4 +1,4 @@
-### ⚡ I’m PHP developer
+### ⚡ PHP dev
 
 ##### :star: Backend
 - PHP 5-7
