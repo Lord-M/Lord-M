@@ -2,7 +2,7 @@
 
 ##### :star: Backend
 - PHP 5-7
-- Nore.js
+- Node.js
 - Laravel
 
 ##### :star: Frontend
