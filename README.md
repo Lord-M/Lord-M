@@ -3,7 +3,7 @@
 ##### :star: Backend
 - PHP 5-7
 - Node.js
-- Laravel
+- Laravel / Zend
 
 ##### :star: Frontend
 - HTML / CSS (SASS/LESS) / Bootstrap 
