@@ -6,7 +6,7 @@
 - Laravel / Zend
 
 ##### :star: Frontend
-- HTML / CSS (SASS/LESS) / Bootstrap 
+- HTML / CSS (SASS/LESS) / Bootstrap 3-4
 - JavaScript, jQuery
 - Vue.js
 
