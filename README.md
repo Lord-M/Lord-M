@@ -11,7 +11,7 @@
 - Vue.js
 
 ##### :star: Other
-- MySQL
+- MySQL 5-8
 - Git / Bitbucket
 - Apache / Nginx
 - PHPUnit
