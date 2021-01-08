@@ -7,7 +7,7 @@
 
 ##### :star: Frontend
 - HTML 5 / CSS 3 (SASS/LESS) / Bootstrap 3-4
-- JavaScript, jQuery
+- JavaScript, jQuery 3
 - Vue.js
 
 ##### :star: Other
