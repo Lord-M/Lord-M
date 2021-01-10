@@ -15,7 +15,7 @@
 - Git / Bitbucket
 - Apache / Nginx
 - PHPUnit
-- Linux(Debian, Ubuntu, FreeBSD)
+- Linux(Debian, Ubuntu)
 - Docker
 
 <!--
