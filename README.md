@@ -6,12 +6,12 @@
 - Laravel / Zend
 
 ##### :star: Frontend
-- HTML 5 / CSS 3 (SASS/LESS) / Bootstrap 3-4
+- HTML 5 / CSS 3 (SASS/LESS) / Bootstrap 3
 - JavaScript(ES6+), jQuery 3
 - Vue.js
 
 ##### :star: Other
-- MySQL 5-8
+- MySQL 5
 - Git / Bitbucket
 - Apache / Nginx
 - PHPUnit
