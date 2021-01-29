@@ -8,7 +8,6 @@
 - JavaScript(ES6+)
 
 ##### :star: Other
-- MySQL 
 - Git / Bitbucket
 - Apache / Nginx
 - Linux(Debian, Ubuntu, CentOS)
