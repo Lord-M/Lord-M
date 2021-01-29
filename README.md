@@ -1,22 +1,17 @@
-### ⚡ PHP dev
+### ⚡ Frontend dev
 
 ##### :star: Backend
-- PHP 5-7
-- Node.js
-- Laravel / Zend
+- PHP 5
 
 ##### :star: Frontend
-- HTML 5 / CSS 3 (SASS/LESS) / Bootstrap 3
-- JavaScript(ES6+), jQuery 3
-- Vue.js
+- HTML 5 / CSS 3 (SASS/LESS) 
+- JavaScript(ES6+)
 
 ##### :star: Other
-- MySQL / Oracle 9-10
+- MySQL 
 - Git / Bitbucket
 - Apache / Nginx
-- PHPUnit
 - Linux(Debian, Ubuntu, CentOS)
-- Docker
 
 <!--
 **Lord-M/Lord-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
